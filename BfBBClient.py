@@ -49,7 +49,7 @@ CONNECTION_LOST_STATUS = "Dolphin Connection was lost. Please restart your emula
 CONNECTION_CONNECTED_STATUS = "Dolphin Connected"
 CONNECTION_INITIAL_STATUS = "Dolphin Connection has not been initiated"
 
-GAME_ID = b'GQPE78'
+GAME_ID = b'GGVE78'
 
 SCENE_OBJ_LIST_PTR_ADDR = 0x803cb9ec
 SCENE_OBJ_LIST_SIZE_ADDR = 0x803cac08
